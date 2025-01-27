@@ -1,0 +1,19 @@
+﻿product_name,Number of Orders,ReturnStatus,,,,,,,
+Apple Airpods Headphones,34675,Not Returned,,,,,,,
+27in 4K gaming monitor,16353,Not Returned,,,,,,,
+Samsung Charging Cable Pack,16281,Not Returned,,,,,,,
+Samsung Webcam,5108,Not Returned,,,,,,,
+Macbook Air Laptop,2709,Not Returned,,,,,,,
+ThinkPad Laptop,1985,Not Returned,,,,,,,
+Apple Airpods Headphones,647,Returned,,,,,,,
+27in 4K gaming monitor,391,Returned,,,,,,,
+Apple iPhone,192,Not Returned,,,,,,,
+Macbook Air Laptop,118,Returned,,,,Product,Purchases,Returns,Return%
+ThinkPad Laptop,79,Returned,,,,27in 4K gaming monitor,16353,391,2%
+Samsung Charging Cable Pack,76,Returned,,,,Apple Airpods Headphones,34675,647,2%
+Samsung Webcam,45,Returned,,,,Apple iPhone,192,7,4%
+bose soundsport headphones,23,Not Returned,,,,bose soundsport headphones,23,,0%
+Apple iPhone,7,Returned,,,,Macbook Air Laptop,2709,118,4%
+,,,,,,Samsung Charging Cable Pack,16281,76,0%
+,,,,,,Samsung Webcam,5108,45,1%
+,,,,,,ThinkPad Laptop,1985,79,4%
