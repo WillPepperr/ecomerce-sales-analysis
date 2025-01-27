@@ -10,11 +10,12 @@ This report aims to:
 - Analyze key performance drivers  
 - Provide actionable insights to support future strategic planning  
 
----  
+
 
 ## Data Structure Summary  
-
----  
+<p align="center">
+  <img src="visuals/data_relationships.png" alt="table relationships" />
+</p>
 
 ## Executive Summary  
 
