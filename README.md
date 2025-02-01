@@ -73,7 +73,7 @@ This report aims to:
 
 ---  
 
-## Analysis Deep Dive  
+# Analysis Deep Dive  
 
 ### Sales Revenue Analysis  
 - **2020 Surge:** Sales revenue YoY increased by 168%.  
@@ -118,6 +118,10 @@ This report aims to:
 - The loyalty program requires significant updates to better drive engagement and CLV.  
 
 ---  
+
+## Data Integrity Comments
+
+---
 
 ## Conclusion   
 
