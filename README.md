@@ -47,6 +47,8 @@ This report aims to:
   - 63% of revenue and 66% of total order volume is driven by two mid-priced products: a gaming monitor and Apple headphones (priced $100–$1,000).  
   - High-priced items, including MacBook and ThinkPad laptops (priced >$1,000), contribute 33% of revenue and 6% of total order volume.  
 
+<img src="visuals/Revenue_by_Product.png" width="800">  
+
 ---  
 
 ## Recommendations  
