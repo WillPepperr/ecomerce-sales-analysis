@@ -31,7 +31,7 @@ This report aims to:
 - Revenue from direct marketing dropped 11.5% YoY in 2021 ($6.1M to $5.4M) and declined further by 46.3% YoY in 2022 ($5.4M to $2.9M).  
 - These trends suggest a significant reduction in Return on Ad Spend (ROAS), driven by increasing competition in online advertising and diminishing effectiveness of ads.  
 
-  <img src="visuals/Annual_Direct_Marketing_Sales.PNG" height="350">  <img src="visuals/Marketing_Channel_Revenue.PNG" height="350">  
+  <img src="visuals/Annual_Direct_Marketing_Sales.PNG" height="250">  <img src="visuals/Marketing_Channel_Revenue.PNG" height="250">  
 
 ### Customer Memberships  
 - The loyalty program has not demonstrated a significant impact on Customer Lifetime Value (CLV):  
