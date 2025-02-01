@@ -22,6 +22,10 @@ This report aims to:
 ### Annual Revenue Trends  
 - **Peak Performance:** Revenue peaked in 2020 at $7.2M, followed by declines of 9% in 2021 ($6.5M) and 42% in 2022 ($3.8M).  
 
+<p align="center">
+  <img src="visuals/Annual_Sales.PNG" alt="table relationships" />
+</p>
+
 ### Sales Channels  
 - Direct sales channels (online ad spend) account for 83% of revenue.  
 - Revenue from direct marketing dropped 11.5% YoY in 2021 ($6.1M to $5.4M) and declined further by 46.3% YoY in 2022 ($5.4M to $2.9M).  
