@@ -79,12 +79,21 @@ This report aims to:
 - **2020 Surge:** Sales revenue YoY increased by 168%.  
   - January 2020 revenue exceeded previous monthly averages by 63%.  
   - February 2020 achieved a 145% increase over monthly averages.  
+
+<img src="visuals/Sales_Revenue_Pre_Pandimic.PNG"> 
+
+
 - **2021 Plateau:** Sales revenue YoY decreased 9%, with the number of sales increasing 6%.  
   - MacBook and ThinkPad laptops performed 30% worse than 2020.  
   - Gaming monitor sales improved by 8%.  
   - Samsung webcams saw a 165% revenue increase (an additional $80K).  
+
 - **2022 Recession:** Sales revenue YoY decreased 42%.  
   - Sales of the top four dominant products declined by 40%-50%.  
+  - Accessories and peripherals dropped by 35%.  
+  - Budget laptop sales saw a slight improvement of 5%. 
+
+<img src="visuals/Annual_Revenue_by_Product.PNG"> 
 
 ### Marketing Channel Analysis  
 - **Advertising Channel Performance**  
