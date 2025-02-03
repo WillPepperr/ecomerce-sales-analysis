@@ -104,6 +104,8 @@ This report aims to:
   - Sales from all marketing channels dropped 48% in 2022 compared to 2020.  
   - Direct marketing experienced a 53% decline, while E-Mail marketing decreased by only 15%.  
 
+<img src="visuals/Annual_Sales_from_Direct_and_Email_Marketing.PNG">
+
 ### Geographic Sales Analysis  
 - **Regional Contributions:**  
   - North America accounts for over 50% of total sales.  
