@@ -133,7 +133,7 @@ This report aims to:
 - Non-members demonstrate higher retention, with 8% making repeat purchases compared to <1% of loyalty members (less than 30 total repeated orders by members).  
 - Average Order Value (AOV) for loyalty members is 11% lower than for non-members, and CLV is 24% lower.  
 - The loyalty program requires significant updates to better drive engagement and CLV.  
-
+<img src="visuals/Number_of_Orders_by_Loyalty_Status_and_Order_Behavior.PNG">
 ---  
 
 ## Data Integrity Comments
