@@ -3,7 +3,7 @@ import pandas as pd
 pd.set_option('display.max_columns', 20)
 pd.set_option('display.max_rows', 1000)
 
-df = pd.read_csv("C:/Users/wicro/Desktop/Portfolio projects/Ecommerce/data/orders.csv")
+df = pd.read_csv("C:/Users/Ecommerce/data/orders.csv")
 
 #removes typo in monitor name
 df['product_name'] = df['product_name'].replace({'27in"" 4k gaming monitor': '27in 4K gaming monitor'})
