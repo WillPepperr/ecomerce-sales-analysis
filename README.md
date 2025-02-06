@@ -104,17 +104,23 @@ This report aims to:
   - Sales from all marketing channels dropped 48% in 2022 compared to 2020.  
   - Direct marketing experienced a 53% decline, while E-Mail marketing decreased by only 15%.  
 
-<img src="visuals/Annual_Sales_from_Direct_and_Email_Marketing.PNG">
+<img src="visuals/Annual_Sales_from_Direct_and_Email_Marketing.PNG"> 
+
 
 ### Geographic Sales Analysis  
 - **Regional Contributions:**  
   - North America accounts for over 50% of total sales.  
-  - Combined, North America and Europe generate 72% of global sales.  
+  - Combined, North America and Europe generate 72% of global sales.
+<img src="visuals/Sales_by_Region.PNG">
+
 - **Regional Product Preferences:**  
-  - Laptop sales are lower in the Middle East and Asia (MEA), representing 28% of sales versus the global average of 36%.  
+  - Laptop sales are lower in the Middle East and Asia (MEA), representing 28% of sales versus the global average of 36%.
+<img src="visuals/Regional_Product_Sales_composition.PNG">
+
 - **Regional Marketing Channels:**  
   - Sales from various channels performed similarly across regions.  
-  - E-mail marketing slightly underperformed in Europe (8% of sales instead of the global average of 12%).  
+  - E-mail marketing slightly underperformed in Europe (8% of sales instead of the global average of 12%).
+<img src="visuals/Product_Marketing_Channel_Composition_by_Region.PNG">
 
 ### Product Sales Analysis  
 - Since launching six products in 2019, Trenline expanded to eight offerings in 2020.  
@@ -124,7 +130,7 @@ This report aims to:
 - Lower-performing or lower-margin products may benefit from being marketed to loyalty members.  
 
 ### Loyalty Membership Analysis  
-- Non-members demonstrate higher retention, with 8% making repeat purchases compared to <1% of loyalty members.  
+- Non-members demonstrate higher retention, with 8% making repeat purchases compared to <1% of loyalty members (less than 30 total repeated orders by members).  
 - Average Order Value (AOV) for loyalty members is 11% lower than for non-members, and CLV is 24% lower.  
 - The loyalty program requires significant updates to better drive engagement and CLV.  
 
@@ -136,4 +142,4 @@ This report aims to:
 
 ## Conclusion   
 
-By focusing direct marketing on top-performing products, leveraging memberships for targeted email campaigns, and expanding product offerings to include mid-to-high priced items, Trenline can strengthen its market position and drive sustainable growth in the competitive online retail space.  
+Trenline is facing serious challenges which are jeopardizing their business model. With their most lucrative sales channel continuing to become less profitable due to decreasing ROAS, Action must be taken to increase investment into long-term stable advertising channels. Offering more incentives for members can increase the marketing reach and depend less on direct product offers online. Offering a greater, customer-specific selection to Loyalty Members can increase CLV, leading to fewer Customer Acquisition Costs. 
