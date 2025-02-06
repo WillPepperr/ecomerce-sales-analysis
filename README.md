@@ -134,11 +134,7 @@ This report aims to:
 - Average Order Value (AOV) for loyalty members is 11% lower than for non-members, and CLV is 24% lower.  
 - The loyalty program requires significant updates to better drive engagement and CLV.  
 <img src="visuals/Number_of_Orders_by_Loyalty_Status_and_Order_Behavior.PNG">
----  
 
-## Data Integrity Comments
-
----
 
 ## Conclusion   
 
