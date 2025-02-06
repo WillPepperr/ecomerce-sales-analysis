@@ -7,7 +7,7 @@ pd.set_option('display.max_rows', 1000)
 df = pd.read_csv("C:/Users/wicro/Desktop/Portfolio projects/Ecommerce/data/customers.csv")
 
 
-
+# Replace Null values in marketing channels with 'unknown' tag:
 df['marketing_channel'] = df['marketing_channel'].replace({np.nan: 'unknown'})
 df['account_creation_method'] = df['account_creation_method'].replace({np.nan: 'unknown'})
 
