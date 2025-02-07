@@ -3,7 +3,7 @@
 
 Bookmarks:  
 - [Executive Summary](#Executive-Summary)
-- [Recomendations](#Recomendations)
+- [Recomendations](#Recommendations)
 - [Analysis Deep Dive](#Analysis-Deep-Dive)  
 - [Conclusion](#Conclusion)
 
