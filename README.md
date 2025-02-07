@@ -2,7 +2,8 @@
 
 
 Bookmarks:  
-- [Executive Summary](#Executive-Summary)  
+- [Executive Summary](#Executive-Summary)
+- [Recomendations](#Recomendations)
 - [Analysis Deep Dive](#Analysis-Deep-Dive)  
 - [Conclusion](#Conclusion)
 
