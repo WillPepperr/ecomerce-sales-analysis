@@ -1,5 +1,12 @@
 # TRENLINE (E-Commerce) Sales Data Analysis  
 
+
+Bookmarks:  
+- [Executive Summary](#Executive-Summary)  
+- [Analysis Deep Dive](#Analysis-Deep-Dive)  
+- [Conclusion](#Conclusion)
+
+
 ## Background and Overview  
 Trenline is a global online retailer specializing in consumer electronics. Since commencing operations in 2019, the company has averaged over $5 million in annual net sales, representing a modest share of the $650 billion E-commerce market.  
 
