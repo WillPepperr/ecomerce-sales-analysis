@@ -62,11 +62,12 @@ This report aims to:
 ## Recommendations  
 
 1. **Focus Direct Marketing on Top Performers**  
-   - Emphasize direct marketing efforts on the top four performing products (gaming monitor, Apple headphones, MacBook, and ThinkPad laptops) to maximize revenue.  
+   - Limit direct marketing efforts on the top four performing products (gaming monitor, Apple headphones, MacBook, and ThinkPad laptops).
 
 2. **Leverage Membership for E-Mail Marketing**  
    - Use the loyalty program to target members with personalized email campaigns focusing on:  
-     - Lower-performing or lower-ticket items (e.g., webcams or accessories).  
+     - Similar products to previous purchases
+     - Complementary products(ie Apple headphones for previous iPhone customers).
      - Exclusive discounts or product bundles to drive additional purchases and increase retention.  
 
 3. **Expand Product Offerings**  
