@@ -24,6 +24,9 @@ This report aims to:
 <p align="center">
   <img src="visuals/data_relationships.png" alt="table relationships" />
 </p>
+Four tables were provided for this anlaysis, with relations shown above.
+
+The Orders and Customers table provide the bulk of the sales data, with geo_lookup provding region grouping and order_status tracking order returns.
 
 ## Executive Summary  
 
