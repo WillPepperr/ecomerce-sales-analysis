@@ -7,16 +7,25 @@ Bookmarks:
 - [Analysis Deep Dive](#Analysis-Deep-Dive)  
 - [Conclusion](#Conclusion)
 
+## Defined Terms:
+YOY (Year-Over-Year) - difference in a years metric compared to the previous year
+CLV (Customer-Lifetime-Value) - total amount of revenue a customer is expected to generate
+ROAS (Return-On-Advertisement-Spend) - revenue generated compared to the cost to advertise on the platfom
+
+Direct Marketing - marketing channel by promoting products through online advertisers
+E-mail Marketing - marketing channel promoting products to previous customers or loyalty members via e-mail campains
+Affiliate Marketing - marketing channel opperated by 3rd parties incentivised with sales commisions
+Social Media Marketing - marketing channel with offers from content whithout paid promotion to media provider
 
 ## Background and Overview  
-Trenline is a global online retailer specializing in consumer electronics. Since commencing operations in 2019, the company has averaged over $5 million in annual net sales, representing a modest share of the $650 billion E-commerce market.  
+Trenline is a global online retailer specializing in consumer electronics. Since commencing operations in 2019, the company has averaged over $5 million in annual net sales, representing a share of the $650 billion E-commerce market.  
 
 Trenline’s primary marketing strategy involves direct online advertisements promoting one of eight consumer electronics products. Additionally, the company offers a loyalty program aimed at fostering customer retention.  
 
 This report aims to:  
-- Identify emerging trends  
+- Identify emerging sales trends from 2019 to 2022 
 - Analyze key performance drivers  
-- Provide actionable insights to support future strategic planning  
+- Provide actionable insights to impove future sales performance  
 
 
 
@@ -31,16 +40,17 @@ The Orders and Customers table provide the bulk of the sales data, with geo_look
 ## Executive Summary  
 
 ### Annual Revenue Trends  
-- **Peak Performance:** Revenue peaked in 2020 at $7.2M, followed by declines of 9% in 2021 ($6.5M) and 42% in 2022 ($3.8M).  
+- Revenue peaked in 2020 at $7.2M, a YOY increase of 167% after the first year of operations in 2019
+- The following years expierienced YOY decreases of 9% in 2021 ($6.5M) and 42% in 2022 ($3.8M).  
 
 <p align="center">
   <img src="visuals/Annual_Sales.PNG" alt="table relationships" />
 </p>
 
 ### Sales Channels  
-- Direct sales channels (online ad spend) account for 83% of revenue.  
-- Revenue from direct marketing dropped 11.5% YoY in 2021 ($6.1M to $5.4M) and declined further by 46.3% YoY in 2022 ($5.4M to $2.9M).  
-- These trends suggest a significant reduction in Return on Ad Spend (ROAS), driven by increasing competition in online advertising and diminishing cost-effectiveness of ads.  
+- The Direct Marketing Channel accounts for 83% of revenue.  
+- Revenue from Direct Marketing dropped 11.5% YoY in 2021 ($6.1M to $5.4M) and declined further by 46.3% YoY in 2022 ($5.4M to $2.9M).  
+- These trends suggest a significant reduction in ROAS, driven by increasing competition in online advertising and diminishing cost-effectiveness of ads.  (further details)
 
   <img src="visuals/Annual_Direct_Marketing_Sales.PNG" height="305">  <img src="visuals/Marketing_Channel_Revenue.PNG" height="305">  
 
