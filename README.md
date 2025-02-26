@@ -161,7 +161,7 @@ The Orders and Customers table provide the bulk of the sales data, with geo_look
 
 ## Conclusion   
 
-Trenline is facing serious challenges which are jeopardizing their business model. With their most lucrative sales channel continuing to become less profitable due to decreasing ROAS, Action must be taken to increase investment into long-term stable advertising channels. Offering more incentives for members can increase the marketing reach and depend less on direct product offers online. Offering a greater, customer-specific selection to Loyalty Members can increase CLV, leading to fewer Customer Acquisition Costs. 
+ 
 
 
 
