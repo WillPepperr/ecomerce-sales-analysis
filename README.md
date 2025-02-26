@@ -7,20 +7,16 @@ Bookmarks:
 - [Analysis Deep Dive](#Analysis-Deep-Dive)  
 - [Conclusion](#Conclusion)
 
-## Defined Terms:
-YOY (Year-Over-Year) - difference in a years metric compared to the previous year
+## Defined Terms  
 
-CLV (Customer-Lifetime-Value) - total amount of revenue a customer is expected to generate
+- **YOY (Year-Over-Year):** The percentage or absolute change in a metric compared to the same period in the previous year.  
+- **CLV (Customer Lifetime Value):** The estimated total revenue a customer will generate throughout their relationship with a business.  
+- **ROAS (Return on Advertising Spend):** A ratio measuring revenue earned for every dollar spent on advertising.
+- **Direct Marketing:** Promotional efforts targeting consumers through direct digital ads, bypassing intermediaries.  
+- **Email Marketing:** Promotional messages sent via email to past customers or loyalty members.  
+- **Affiliate Marketing:** A performance-based marketing model where third parties earn commissions for driving sales.  
+- **Social Media Marketing:** Using organic content to promote products on social platforms without paid advertising.  
 
-ROAS (Return-On-Advertisement-Spend) - revenue generated compared to the cost to advertise on the platfom
-
-Direct Marketing - marketing channel by promoting products through online advertisers
-
-E-mail Marketing - marketing channel promoting products to previous customers or loyalty members via e-mail campains
-
-Affiliate Marketing - marketing channel opperated by 3rd parties incentivised with sales commisions
-
-Social Media Marketing - marketing channel with offers from content whithout paid promotion to media provider
 
 ## Background and Overview  
 Trenline is a global online retailer specializing in consumer electronics. Since commencing operations in 2019, the company has averaged over $5 million in annual net sales, representing a share of the $650 billion E-commerce market.  
@@ -30,7 +26,7 @@ Trenline’s primary marketing strategy involves direct online advertisements pr
 This report aims to:  
 - Identify emerging sales trends from 2019 to 2022 
 - Analyze key performance drivers  
-- Provide actionable insights to impove future sales performance  
+- Provide data-driven recomendations to impove future sales performance  
 
 
 
