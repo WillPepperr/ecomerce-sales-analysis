@@ -158,13 +158,6 @@ The Orders and Customers table provide the bulk of the sales data, with geo_look
 - The loyalty program requires significant updates to better drive engagement and CLV
 <img src="visuals/Number_of_Orders_by_Loyalty_Status_and_Order_Behavior.PNG">
 
-
-## Conclusion   
-
- 
-
-
-
 ## Data Integrity Notes
 Trenline does not keep accurate accounts of advertisement spending throughout the marketing channels. Additional measures are recomended for specific marketing recomendations.
 
