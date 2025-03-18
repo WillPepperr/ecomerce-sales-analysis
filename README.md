@@ -54,6 +54,7 @@ Sales have been declining since peaking in 2020 with Sales of \$7.2M, with 2021 
 ### Revenue Trends  
 Revenue peaked in 2020 at $7.2M, a YOY increase of 167% after the first year of operations in 2019 The following years expierienced YOY decreases of 9% in 2021 (\$6.5M) and 42% in 2022 (\$3.8M). Electronics sales perfrom best consistantly Febuary through May and including October while underperforming in September, November, and December. The lack of sales at the end of the year is concernign considering the last 2 months of the year being high retail-demand months during Holidays.
 
+<<<<<<< HEAD
 <img src="readme_visuals\Annual_Sales.png" alt="Sales Table" width="1200" />
 <br><br>
 
@@ -89,6 +90,9 @@ Marketing channel performance varies little across regions as well, with the exc
 <img src="readme_visuals\Marketing_Composition_by_Region.png" alt="Sales Table" width="1200" />
 
 <br><br>
+=======
+  <img src="visuals/Annual_Direct_Marketing_Sales.PNG" height="305">   
+>>>>>>> 687c51d9314a3bcccf72dda76cf95c698a3acc23
 
 ### Customer Memberships  
 The LMP has not demonstrated a significant impact on CLV. LMP customers CLV is 24% lower than non-members. Less than 1% of LMP customers make repeat purchases compared to 9% of non-members. This demonstrates a lack of insentive from the LMP to give valueable offers to customers. It needs to be structured to increase customer CLV by delivering specialized and realavant product offers to customers.
@@ -129,3 +133,76 @@ Four products account for over 96% of total revenue. Two lead sales drivers are 
    - Redesign the program to encourage sign-ups and increase CLV:  
      - Introduce tiered rewards to incentivize repeat purchases  
      - Create tailored offers based on purchase history to increase engagement
+<<<<<<< HEAD
+=======
+
+---  
+
+# Analysis Deep Dive  
+
+### Sales Revenue Analysis  
+- **2020 Surge:** Sales revenue YoY increased by 168% 
+  - January 2020 revenue exceeded previous monthly averages by 63%  
+  - February 2020 achieved a 145% increase over monthly averages
+
+<img src="visuals/Sales_Revenue_Pre_Pandimic.PNG"> 
+
+
+- **2021 Plateau:** Sales revenue YoY decreased 9%, with the number of sales increasing 6% 
+  - MacBook and ThinkPad laptops performed 30% worse than 2020 
+  - Gaming monitor sales improved by 8%
+  - Samsung webcams saw a 165% revenue increase (an additional $80K)  
+
+- **2022 Recession:** Sales revenue YoY decreased 42% 
+  - Sales of the top four dominant products declined by 40%-50% 
+  - Accessories and peripherals dropped by 35%  
+  - Budget laptop sales saw a slight improvement of 5%
+
+<img src="visuals/Annual_Revenue_by_Product.PNG"> 
+
+### Marketing Channel Analysis  
+- **Advertising Channel Performance**  
+  - Direct marketing (ads delivered on webpages) acquired 77% of customers and contributed 83% of revenue  
+  - E-mail marketing accounted for 17% of orders and 12% of revenue  
+  - Affiliate, social media, and others contributed 6% of orders and 5% of revenue 
+- **2020 vs. 2022 Performance:**  
+  - Sales from all marketing channels dropped 48% in 2022 compared to 2020 
+  - Direct marketing experienced a 53% decline, while E-Mail marketing decreased by only 15%
+
+<img src="visuals/Annual_Sales_from_Direct_and_Email_Marketing.PNG"> 
+
+
+### Geographic Sales Analysis  
+- **Regional Contributions:**  
+  - North America accounts for over 50% of total sales
+  - Combined, North America and Europe generate 72% of global sales
+<img src="visuals/Sales_by_Region.PNG">
+
+- **Regional Product Preferences:**  
+  - Laptop sales are lower in the Middle East and Asia (MEA), representing 28% of sales versus the global average of 36%
+<img src="visuals/Regional_Product_Sales_composition.PNG">
+
+- **Regional Marketing Channels:**  
+  - Sales from various channels performed similarly across regions
+  - E-mail marketing slightly underperformed in Europe (8% of sales instead of the global average of 12%)
+<img src="visuals/Product_Marketing_Channel_Composition_by_Region.PNG">
+
+### Product Sales Analysis  
+- Since launching six products in 2019, Trenline expanded to eight offerings in 2020
+- Four products dominate, contributing 96% of total revenue
+  - Two mid-priced products (gaming monitor, Apple headphones) account for 63% 
+  - High-end laptops (MacBook, ThinkPad) generate 33%
+- Lower-performing or lower-margin products may benefit from being marketed to loyalty members
+
+### Loyalty Membership Analysis  
+- Non-members demonstrate higher retention, with 8% making repeat purchases compared to <1% of loyalty members (less than 30 total repeated orders by members)
+- Average Order Value (AOV) for loyalty members is 11% lower than for non-members, and CLV is 24% lower
+- The loyalty program requires significant updates to better drive engagement and CLV
+<img src="visuals/Number_of_Orders_by_Loyalty_Status_and_Order_Behavior.PNG">
+
+## Data Integrity Notes
+Trenline does not keep accurate accounts of advertisement spending throughout the marketing channels. Additional measures are recomended for specific marketing recomendations.
+
+
+
+>>>>>>> 687c51d9314a3bcccf72dda76cf95c698a3acc23
