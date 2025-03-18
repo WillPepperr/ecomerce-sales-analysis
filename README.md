@@ -32,9 +32,7 @@ This report aims to:
 - Provide data-supported changes to the Member Loyalty Program
 
 ## Data Structure Summary  
-<p align="center">
-  <img src="readme_visuals/data_relationships.png" alt="table relationships" />
-</p>
+<img src="readme_visuals/data_relationships.png" alt="table relationships" />
 Four tables were provided for this anlaysis shown above:
 
 - **orders:** Contians the unique order identifier (id is the primary key) and data about purchase. It includes the customer identifier (customer_id), the product purchased (product_name), purchase date (purchase_ts), and purchase value in USD (currency_usd).
