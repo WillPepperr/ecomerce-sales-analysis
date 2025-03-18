@@ -95,15 +95,20 @@ The LMP has not demonstrated a significant impact on CLV. LMP customers CLV is 2
 ### Product Offerings  
 
 6 Products were initially sold beginning in 2019 including Gaming Monittor, Apple Airpods, ThinkPad and Macbook Laptops, IPhone, and Samsung Cable. Bose Headphones and Samsung Webcam began sales in 2020.
+
+<br><br>
+
 <img src="readme_visuals/Product_Sales_Table.PNG" alt="Sales Table" width="1200" />
+
+<br><br>
 
 Four products account for over 96% of total revenue. Two lead sales drivers are Gaming Monitors and Apple Airpods making 63% of revenue. Following are Macbook and ThinkPad laptops contribute 33% while only makinng up 7% of order count. The Samsung Charging Cable has performed well in order count at 21%, but only contributes 2% of revenue. Considering the order value of products should influence the marketing channel which it is presented. If realative costs of Direct Marketing increase, advertisements should be more focused to products that are higher in value when converted. Advertising the highest value products which have a history of success in the Direct channel such as laptops and monitors makes sence. Other products could be offered as deals in the LMP.
 
-
+<br><br>
 
 <img src="readme_visuals/Product_Depth_Data.PNG" alt="Sales Table" width="1200" />
 
-
+<br><br>
 
 ---  
 ## Recommendations  
