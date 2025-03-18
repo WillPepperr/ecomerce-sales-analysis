@@ -56,8 +56,7 @@ Revenue peaked in 2020 at $7.2M, a YOY increase of 167% after the first year of 
 <br><br>
 
 
-<img src="readme_visuals\Monthly_Sales_Averages.png
-" alt="Sales Table" width="1200" />
+<img src="readme_visuals\Monthly_Sales_Averages.png" alt="Sales Table" width="1200" />
 
 ### Sales Channels
 
