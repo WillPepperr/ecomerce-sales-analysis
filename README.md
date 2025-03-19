@@ -90,7 +90,7 @@ Marketing channel performance varies little across regions as well, with the exc
 ### Customer Memberships  
 The LMP has not demonstrated a significant impact on CLV. LMP customers CLV is 24% lower than non-members. Less than 1% of LMP customers make repeat purchases compared to 9% of non-members. This demonstrates a lack of insentive from the LMP to give valueable offers to customers. It needs to be structured to increase customer CLV by delivering specialized and realavant product offers to customers.
 
---Graph of Column chart comparing CLV of member/non-member
+<img src="readme_visuals/Average_CLV.PNG" alt="Sales Table" width="1200" />
 
 ### Product Offerings  
 
