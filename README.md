@@ -3,7 +3,7 @@
 Bookmarks:  
 - [Background](#background-and-overview)
 - [Executive Summary](#Executive-Summary)
-- [Analysis Deep Dive](#Analysis-Deep-Dive)  
+- [Analysis Deep Dive](#Marketing-Analysis-Deep-Dive)  
 - [Recommendations](#Recommendations)
 
 
@@ -53,7 +53,7 @@ Sales have been declining since peaking in 2020 with Sales of \$7.2M, with 2021 
 
 ---
 
-## Sales Analysis Deep Dive
+## Marketing Analysis Deep Dive
 
 ### Revenue Trends  
 Revenue peaked in 2020 at $7.2M, a YOY increase of 167% after the first year of operations in 2019 The following years expierienced YOY decreases of 9% in 2021 (\$6.5M) and 42% in 2022 (\$3.8M). Electronics sales perfrom best consistantly Febuary through May and including October while underperforming in September, November, and December. The lack of sales at the end of the year is concernign considering the last 2 months of the year being high retail-demand months during Holidays.
@@ -70,9 +70,10 @@ The Direct Marketing channel remains the primary driver of sales, accounting for
 
 <br><br>
 <img src="readme_visuals\Direct_vs_Other_Marketing.PNG" alt="Sales Table" width="1200" />
-<br>
+<br><br>
+
 The next-best performing marketing channel is E-Mail, which grew from 10% of total sales in 2020 to 15% in 2022. However, despite its increasing share, sales from this channel are still declining in absolute terms. While a growing customer base should, in theory, enhance the impact of E-Mail marketing, the overall drop in orders from this channel raises concerns about its effectiveness.
-<br>
+<br><br>
 <img src="readme_visuals\Marketing_Channel_Contribution.png" alt="Sales Table" width="1200" />
 
 
@@ -84,6 +85,7 @@ Sales from Affiliates and Social Media remain minimal, contributing only 5% of t
 ### Geography Analysis 
 Sales have been evenly distributed across regions, with North America (NA) being the largest market, accounting for over 50% of total sales. Europe follows with 20%, while Asia and the Pacific (APAC) contribute 12%, the Middle East and Africa (MEA) 10%, and Latin America (LATAM) 6%. Product sales have remained relatively consistent across regions, with minimal variation, except for ThinkPad and MacBook laptops, which sell slightly less in MEA compared to other products. More market data is required to assess product demand variations across regions.
 
+<br><br>
 <img src="readme_visuals\Monthly_Revenue_by_Region.png" alt="Sales Table" width="1200" />
 
 <br>
@@ -158,7 +160,7 @@ Given the varying order values of these products, marketing strategies should be
       - Offer exclusive social media promotions to incentivize purchases and increase engagement
       - Provide affiliates with additional incentives for driving LMP sign-ups alongside product sales.
 
-# Data Caveats & Limitations
+## Data Caveats & Limitations
 
 1. **Marketing Budget Data is Not Available**
 
