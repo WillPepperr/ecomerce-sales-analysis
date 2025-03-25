@@ -33,8 +33,8 @@ This report aims to:
 - Provide data-supported changes to the Member Loyalty Program
 ---
 ## Data Structure Summary  
-<img src="readme_visuals/data_relationships.png" alt="table relationships" />
-<br><br/>
+![Table Relationships](readme_visuals/data_relationships.png)
+
 
 Four tables (visualized above) were provided for this analysis:  
 
@@ -57,69 +57,56 @@ Sales have been declining since peaking in 2020 with Sales of \$7.2M, with 2021 
 
 ### Revenue Trends  
 Revenue peaked in 2020 at $7.2M, a YOY increase of 167% after the first year of operations in 2019 The following years expierienced YOY decreases of 9% in 2021 (\$6.5M) and 42% in 2022 (\$3.8M). Electronics sales perfrom best consistantly Febuary through May and including October while underperforming in September, November, and December. The lack of sales at the end of the year is concernign considering the last 2 months of the year being high retail-demand months during Holidays.
-<br>
-<img src="readme_visuals\Annual_Sales.png" alt="Sales Table" width="1200" />
-<br>
-<br>
-<img src="readme_visuals\Monthly_Sales_Averages.png" alt="Sales Table" width="1200" />
-<br>
+
+![Annual Sales](readme_visuals/Annual_Sales.png)
+
+![Monthly Sales Averages](readme_visuals/Monthly_Sales_Averages.png)
+
 
 ### Sales Channels
 
 The Direct Marketing channel remains the primary driver of sales, accounting for 77% of total sales in 2022. However, its share has been steadily declining both in absolute and relative terms compared to other channels. In 2020, Direct Marketing contributed 85% of total sales, but this figure has gradually decreased over time. The reason for this decline is unclear, though seasonal trends indicate weaker performance during high-demand months, particularly November and December. Sales in these months are even lower than in January, traditionally a low-demand period. This seasonal weakness may be contributing to a declining return on ad spend (ROAS), likely due to increased competition for advertising space
 
-<br><br>
-<img src="readme_visuals\Direct_vs_Other_Marketing.PNG" alt="Sales Table" width="1200" />
-<br><br>
+
+![Direct vs Other Marketing](readme_visuals/Direct_vs_Other_Marketing.PNG)
+
 
 The next-best performing marketing channel is E-Mail, which grew from 10% of total sales in 2020 to 15% in 2022. However, despite its increasing share, sales from this channel are still declining in absolute terms. While a growing customer base should, in theory, enhance the impact of E-Mail marketing, the overall drop in orders from this channel raises concerns about its effectiveness.
-<br><br>
-<img src="readme_visuals\Marketing_Channel_Contribution.png" alt="Sales Table" width="1200" />
+
+![Marketing Channel Contribution](readme_visuals/Marketing_Channel_Contribution.png)
 
 
 
 Sales from Affiliates and Social Media remain minimal, contributing only 5% of total sales in 2022. While these channels do not directly drive substantial revenue, they serve as valuable tools for brand exposure and promotional opportunities. Social Media could be leveraged to highlight Loyalty Membership Program (LMP) offers, encouraging sign-ups that would, in turn, support E-Mail marketing campaigns. Additionally, Affiliates could be incentivized with direct bonuses for LMP sign-ups, helping expand reach and engagement.
 
 
-<br><br>
+
 ### Geography Analysis 
 Sales have been evenly distributed across regions, with North America (NA) being the largest market, accounting for over 50% of total sales. Europe follows with 20%, while Asia and the Pacific (APAC) contribute 12%, the Middle East and Africa (MEA) 10%, and Latin America (LATAM) 6%. Product sales have remained relatively consistent across regions, with minimal variation, except for ThinkPad and MacBook laptops, which sell slightly less in MEA compared to other products. More market data is required to assess product demand variations across regions.
 
-<br><br>
-<img src="readme_visuals\Monthly_Revenue_by_Region.png" alt="Sales Table" width="1200" />
 
-<br>
+![Monthly Revenue by Region](readme_visuals/Monthly_Revenue_by_Region.png)
 
 Marketing channel performance also shows little variation across regions, with one notable exception—Europe relies more heavily on the Direct Marketing channel compared to E-Mail marketing relative to other regions.
 
-<br>
-
-<img src="readme_visuals\Marketing_Composition_by_Region.png" alt="Sales Table" width="1200" />
-
-<br><br>
+![Marketing Composition by Region](readme_visuals/Marketing_Composition_by_Region.png)
 
 ### Customer Memberships  
 The LMP has not demonstrated a significant impact on CLV. LMP customers CLV is 24% lower than non-members. Less than 1% of LMP customers make repeat purchases compared to 9% of non-members. This demonstrates a lack of insentive from the LMP to give valueable offers to customers. While average CLV is trending upwards YOY, the lack of repeat purchases is very small even when comparing to non-members. Less than 50 members made repeat purchases in over four years compared to over a thousand non-members. The missing repeated purchases of members indicate a marketing issue. The value generated by the membership program should be directed at presenting specialized offers to members which increase repeated purchases, and increase CLV. 
-<br>
-<img src="readme_visuals/Average_CLV.png" alt="Sales Table" width="1200" />
-<br><br>
+
+![Average CLV](readme_visuals/Average_CLV.png)
+
 ### Product Performance 
 
 Six products were initially launched in 2019: Gaming Monitors, Apple AirPods, ThinkPad and MacBook laptops, iPhones, and Samsung Charging Cables. Bose Headphones and Samsung Webcams were added in 2020.
-<br>
 
-<img src="readme_visuals/Product_Sales_Table.PNG" alt="Sales Table" width="1200" />
-<br><br>
+![Product Sales Table](readme_visuals/Product_Sales_Table.PNG)
 
 Four products account for over 96% of total revenue. The top sales drivers are Gaming Monitors and Apple AirPods, contributing 63% of revenue. MacBook and ThinkPad laptops follow, generating 33% of revenue despite comprising only 7% of total order volume. The Samsung Charging Cable, while performing well in order count at 21%, contributes just 2% of total revenue.
 
 Given the varying order values of these products, marketing strategies should be adapted accordingly. If the relative cost of Direct Marketing increases, ad placements should prioritize higher-value products with proven conversion success, such as laptops and monitors. Lower-value products could be positioned as promotional deals within the LMP to enhance customer retention and cross-selling opportunities.
 
-<br>
-
-<img src="readme_visuals/Product_Depth_Data.PNG" alt="Sales Table" width="1200" />
-
-<br>
+![Product Depth Data](readme_visuals/Product_Depth_Data.PNG)
 
 ---  
 ## Recommendations  
