@@ -33,7 +33,7 @@ This report aims to:
 - Provide data-supported changes to the Member Loyalty Program
 ---
 ## Data Structure Summary  
-![Table Relationships](readme_visuals/data_relationships.png)
+![Table Relationships](readme_visuals/data_relationships.PNG)
 
 
 Four tables (visualized above) were provided for this analysis:  
