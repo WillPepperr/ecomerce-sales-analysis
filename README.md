@@ -1,4 +1,4 @@
-# TRENLINE (E-Commerce) Marketing and Sales Analysis  
+# TRENLINE (E-commerce) Marketing and Sales Analysis  
 
 Bookmarks:  
 - [Background](#background-and-overview)
